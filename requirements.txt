@@ -1,0 +1,17 @@
+dotenv
+certifi
+openai
+asyncio
+torch
+whisper
+moviepy.editor 
+pydub
+opencv-python
+tqdm
+logging
+psutil
+moviepy
+supabase
+yt_dlp
+asyncio
+aiohttp
